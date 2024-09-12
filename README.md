@@ -1,0 +1,2 @@
+# consultarfastFOREX
+fastFOREX
